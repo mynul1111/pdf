@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: orange;
+    background-color: black;
+}
+
+.book{
+    border: 5px solid rgb(7, 7, 7);
+    border-radius: 9px;
+    margin: 22px;
+    padding: 5px;
+    float: left;
+    
+
+
+}
+img{
+    width: 200px;
+    height: 250px;
+}
+
+.bt{
+    color: red;
+    background-color: rgb(7, 7, 7);
+    border-radius: 9px;
+    text-align: center;
+}
+
