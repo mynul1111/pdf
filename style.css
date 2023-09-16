@@ -12,7 +12,11 @@ h1{
     float: left;
     
 
-
+.book,h4{
+    color: white;
+    background-color: blueviolet;
+   
+}
 }
 img{
     width: 200px;
@@ -23,6 +27,5 @@ img{
     color: red;
     background-color: rgb(7, 7, 7);
     border-radius: 9px;
-    text-align: center;
 }
 
